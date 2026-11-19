@@ -33,13 +33,14 @@ The landing page features a modern AI-inspired design with a dark background, co
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/arpana23/ai-landing-page.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd acbrain-landing-page
+   cd ai-landing-page
+
    ```
 
 3. Open `index.html` in your browser.
