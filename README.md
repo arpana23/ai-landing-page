@@ -1,5 +1,5 @@
 # Live Demo
-https://arpana23.github.io/ai-landing-page/
+https://ai-onboard.netlify.app/ 
 
 # Screenshot
 <img width="1873" height="858" alt="ai-landingpage" src="https://github.com/user-attachments/assets/ca51e3a6-e971-4b55-872a-f72c89abb930" />
